@@ -1,0 +1,21 @@
+{
+  "name": "hypixel-cli",
+  "version": "1.0.0",
+  "description": "",
+  "main": "hyp.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": {
+    "hyp": "hyp.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^4.1.1",
+    "commander": "^7.2.0",
+    "hypixel-api-reborn": "^8.1.0",
+    "prompt": "^1.1.0"
+  }
+}
